@@ -1,2 +1,2 @@
 # day-22
-Centering The Text | HTML &amp; CSS
+Centering The Text | HTML & CSS
